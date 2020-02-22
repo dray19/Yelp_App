@@ -8,5 +8,5 @@ Sentiment App from Capstone project
 ### Home with text 
 <img width="1639" alt="home with text" src="https://user-images.githubusercontent.com/35823055/75083315-1df49180-54e6-11ea-8eb0-32e5142635c8.png">
 
-### Results Page 
+<u> ### Results Page </u>
 <img width="1238" alt="results" src="https://user-images.githubusercontent.com/35823055/75083320-20ef8200-54e6-11ea-99a3-ed1a5eba3c33.png">
